@@ -57,7 +57,7 @@ Do machine learning models maintain their predictive and trading advantage over 
 ---
 
 ## Data
-- EURUSD historical time-series data (H1 timeframe)
+- EURUSD historical time-series data (M1 timeframe)
 
 ---
 
